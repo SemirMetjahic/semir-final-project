@@ -1,0 +1,244 @@
+"","Player","Team","Pos","Game_Score","Two_Point_Field_Goal_Percentage","Field_Goals_Attempted","Technical_Fouls","Minutes_Played","Games_Played","Three_Point_Field_Goals_Attempted","Blocks","Free_Throw_Percentage","Field_Goals_Made","Total_Rebounds","Personal_Fouls","Steals","Turnovers","Free_Throws_Made","Three_Point_Field_Goals_Made","Field_Goal_Percentage","Defensive_Rebounds","Assists","Points","Offensive_Rebounds"
+"1","Luka Doncic","Dallas Mavericks","SF",27.575,56.9,23.75,0.24,37.89,NA,10.67,0.54,"78.9%",11.39,9.21,2.22,1.38,4,6.8,3.95,48,8.33,9.78,33.54,NA
+"2","Giannis Antetokounmpo","Milwaukee Bucks","SF",26.897,64.5,18.75,0.07,35.17,NA,NA,1.08,NA,11.47,11.52,2.88,1.19,3.42,7.04,NA,61.1,8.84,6.52,30.44,2.68
+"3","Nikola Jokic","Denver Nuggets","C",26.757,62.5,17.93,0.09,35.09,86,NA,0.81,"82.9%",10.38,12.57,2.49,1.36,3.07,4.62,NA,57.9,9.67,9,26.44,2.9
+"4","Shai Gilgeous-Alexander","Oklahoma City Thunder","PG",25.487,57.3,19.89,NA,34.23,79,NA,0.89,"86.7%",10.58,5.56,2.49,1.97,2.18,7.48,NA,53.2,4.71,6.14,29.91,NA
+"5","Anthony Davis","Los Angeles Lakers","PF",23.653,58.7,17.06,NA,36.01,83,NA,2.33,"81.2%",9.57,12.94,2.43,1.13,2.13,5.53,NA,56.1,9.75,3.51,25.01,3.19
+"6","LeBron James","Los Angeles Lakers","SF",22.556,58.9,18.06,0.08,35.68,78,5.06,0.58,"75.6%",9.71,7.33,NA,1.36,3.49,4.28,2.05,53.7,6.49,8.28,25.74,NA
+"7","Jalen Brunson","New York Knicks","PG",21.679,51.3,22.01,NA,36.1,84,6.86,NA,"84.3%",10.46,NA,NA,0.88,2.46,5.76,2.69,47.5,NA,6.89,29.38,NA
+"8","Devin Booker","Phoenix Suns","SG",21.056,55.3,19.03,0.15,36.29,NA,6.08,NA,"89.2%",9.36,NA,3.11,0.94,2.63,6.17,2.21,49.2,3.67,6.89,27.1,NA
+"9","Kevin Durant","Phoenix Suns","SF",20.894,56.7,19.03,0.08,37.46,79,5.3,1.23,"85.3%",9.97,6.59,NA,0.9,3.22,4.94,2.19,52.4,6.06,4.95,27.08,NA
+"10","Domantas Sabonis","Sacramento Kings","PF",20.868,61.3,13.05,NA,35.8,84,NA,0.6,NA,7.74,13.64,3.08,0.94,3.3,3.56,NA,59.3,10.1,8.18,19.43,3.55
+"11","Jayson Tatum","Boston Celtics","SF",20.68,54,19.03,0.15,35.89,79,8.1,0.58,"83.0%",8.91,8.27,NA,0.97,2.49,5.7,3.01,46.8,7.41,4.95,26.53,NA
+"12","Donovan Mitchell","Cleveland Cavaliers","SG",20.481,54.3,20.13,0.06,35.56,NA,8.81,NA,"85.9%",9.29,5.08,2.27,1.79,2.87,5.11,3.15,46.2,4.24,5.87,26.84,NA
+"13","Kyrie Irving","Dallas Mavericks","PG",20.23,54.9,19.41,NA,35.46,NA,7.34,NA,"89.9%",9.67,5.06,NA,1.33,1.88,3.33,3.05,49.8,4.25,5.11,25.72,NA
+"14","Tyrese Maxey","Philadelphia 76ers","PG",19.655,50.4,20.43,NA,38.14,77,8.18,NA,"87.1%",9.22,NA,2.18,0.96,1.71,4.66,3.05,45.1,NA,6.23,26.16,NA
+"15","Tyrese Haliburton","Indiana Pacers","PG",19.625,60.3,14.97,NA,32.64,77,7.82,0.68,"85.2%",7.1,NA,NA,1.18,2.35,2.62,2.79,47.4,NA,10.74,19.62,NA
+"16","Kawhi Leonard","Los Angeles Clippers","SF",19.623,56.9,16.94,NA,34.14,NA,4.87,0.86,"88.2%",8.87,6.17,NA,1.64,1.76,3.64,2,52.4,4.93,3.54,23.39,1.24
+"17","De'Aaron Fox","Sacramento Kings","PG",19.532,52.4,21.09,0.13,36.05,NA,7.95,NA,NA,9.78,4.62,2.62,2.04,2.63,4.2,2.89,46.4,3.7,5.64,26.64,NA
+"18","Anthony Edwards","Minnesota Timberwolves","SG",19.249,52.2,19.84,0.19,35.38,85,6.76,0.55,"83.5%",9.27,5.54,NA,1.32,3.08,5.4,2.45,46.7,4.82,5.18,26.39,NA
+"19","Damian Lillard","Milwaukee Bucks","PG",19.183,48.7,17.64,0.05,35.52,NA,8.7,NA,"92.4%",7.47,NA,NA,0.99,2.62,6.62,3.12,NA,3.83,6.86,24.68,NA
+"20","DeMar DeRozan","Chicago Bulls","SG",19.091,50.9,17.16,0.09,37.95,81,NA,0.58,"85.3%",8.25,NA,NA,1.14,1.69,6.49,NA,48.1,3.77,5.36,23.96,NA
+"21","Jimmy Butler","Miami Heat","PF",18.815,51.4,13.3,0.05,34.13,NA,NA,NA,"85.9%",6.57,5.28,NA,1.38,1.69,6.57,NA,49.4,NA,4.97,20.74,1.75
+"22","Stephen Curry","Golden State Warriors","PG",18.721,51.6,19.48,NA,32.77,NA,11.77,NA,"92.4%",8.77,NA,NA,NA,2.88,4.03,4.8,NA,3.95,5.08,26.37,NA
+"23","Zion Williamson","New Orleans Pelicans","PF",18.711,57.6,15.79,0.06,31.6,NA,NA,0.68,NA,9.03,5.87,2.28,1.1,2.76,4.97,NA,57.2,4.11,5.03,23.11,1.76
+"24","Victor Wembanyama","San Antonio Spurs","PF",18.444,53.4,16.7,NA,29.66,NA,5.55,3.58,"79.6%",7.76,10.63,2.15,1.24,3.66,4.11,1.8,46.5,8.37,3.86,21.44,2.27
+"25","Alperen Sengun","Houston Rockets","C",18.116,56.7,15.59,0.11,32.47,NA,NA,0.73,NA,8.37,9.35,3.35,1.21,2.57,3.87,NA,53.7,6.44,4.95,21.13,2.9
+"26","Scottie Barnes","Toronto Raptors","SF",17.858,53.6,15.7,NA,34.9,NA,4.93,1.47,"78.1%",7.45,8.23,NA,1.25,2.75,3.27,1.68,47.5,5.88,6.05,19.85,2.35
+"27","Pascal Siakam","Indiana Pacers","PF",17.628,58.4,16.01,0.06,33.58,87,NA,NA,NA,8.59,7.17,2.45,NA,1.67,3.49,NA,53.6,5.39,4.28,21.72,1.78
+"28","Dejounte Murray","Atlanta Hawks","PG",17.413,51.8,18.78,0.05,35.81,79,7.09,NA,"79.5%",8.65,5.35,NA,1.43,2.56,2.7,2.58,46,4.56,6.44,22.57,NA
+"29","Bam Adebayo","Miami Heat","C",16.865,53,14.5,0.06,34.25,78,NA,0.9,"75.0%",7.54,10.26,2.27,1.06,2.21,3.96,NA,52,8.03,3.87,19.27,2.23
+"30","Jarrett Allen","Cleveland Cavaliers","C",16.849,64,10.57,NA,31.72,81,NA,1.05,"73.8%",6.72,10.69,NA,NA,1.56,3.1,NA,63.6,7.51,NA,16.53,3.19
+"31","Jamal Murray","Denver Nuggets","SG",16.67,49.5,17.24,0.05,32.28,NA,5.8,0.68,"85.7%",8.05,NA,NA,0.91,2.15,2.64,2.38,46.7,NA,6.45,21.11,NA
+"32","Paul George","Los Angeles Clippers","SF",16.651,51.9,16.64,NA,34.05,80,7.96,NA,"90.2%",7.76,5.36,2.8,1.5,2.09,3.56,3.26,46.7,4.86,3.64,22.35,NA
+"33","Kristaps Porzingis","Boston Celtics","PF",16.551,59.8,12.92,0.16,29.43,NA,5.13,1.92,"86.1%",6.59,7.03,2.72,NA,1.52,4.46,1.93,51,5.38,NA,19.57,1.66
+"34","James Harden","Los Angeles Clippers","SG",16.528,NA,11.68,NA,34.76,78,6.86,0.81,"88.0%",5.03,5.08,NA,1.06,2.55,4.24,2.62,NA,4.6,8.49,16.91,NA
+"35","Paolo Banchero","Orlando Magic","PF",16.476,49.2,17.89,0.06,35.18,87,4.49,0.59,NA,8.14,7.06,NA,0.91,3.21,5.08,NA,45.5,5.95,5.28,22.91,1.1
+"36","Jaylen Brown","Boston Celtics","SG",16.168,57.3,17.97,0.12,33.5,NA,5.84,NA,NA,9,5.63,2.59,1.17,2.43,2.93,2.05,50.1,4.39,3.47,22.99,1.24
+"37","Karl-Anthony Towns","Minnesota Timberwolves","C",16.143,55.3,15.12,NA,32.43,NA,5.19,0.63,"87.1%",7.69,8.37,3.38,NA,2.75,4.07,2.21,50.9,6.84,2.99,21.66,1.53
+"38","Cade Cunningham","Detroit Pistons","PG",16.127,48.7,18.82,0.05,33.45,NA,5.4,NA,"86.9%",8.45,NA,2.47,0.9,3.42,3.84,1.92,NA,3.79,7.48,22.66,NA
+"39","Fred VanVleet","Houston Rockets","PG",15.97,NA,13.95,0.11,36.77,NA,8.03,0.81,"86.0%",5.79,NA,2.51,1.38,1.73,2.7,3.11,NA,NA,8.07,17.4,NA
+"40","Jalen Williams","Oklahoma City Thunder","SG",15.597,57.6,14.15,NA,31.61,NA,NA,0.61,"81.2%",7.63,NA,2.43,1.16,1.8,2.48,NA,53.9,3.59,4.56,19.2,NA
+"41","Brandon Ingram","New Orleans Pelicans","SF",15.386,52.1,15.77,NA,33,NA,NA,0.66,"81.0%",7.61,5.03,2.26,NA,2.56,3.83,NA,48.3,4.39,5.51,20.34,NA
+"42","Rudy Gobert","Minnesota Timberwolves","C",15.342,66,NA,0.09,34.18,81,NA,2.07,NA,5.28,12.83,3.14,NA,1.56,3.35,NA,65.7,9.11,NA,13.91,3.72
+"43","Miles Bridges","Charlotte Hornets","SF",15.294,52.9,17.54,0.04,37.41,NA,6.52,NA,"82.5%",8.1,7.32,NA,0.94,2,2.52,2.28,46.2,6.29,3.35,21,1.03
+"44","Terry Rozier","Miami Heat","PG",15.272,49.8,16.36,NA,33.45,NA,6.72,NA,"86.9%",7.25,NA,NA,1.03,1.74,2.82,2.44,NA,NA,5.61,19.75,NA
+"45","Jaren Jackson Jr.","Memphis Grizzlies","PF",15.129,50.1,17.61,0.05,32.19,NA,5.55,1.61,"80.8%",7.82,5.53,3.56,1.21,2.42,5.11,1.77,NA,4.24,NA,22.52,1.29
+"46","Nikola Vucevic","Chicago Bulls","C",15.105,55,16.01,0.06,34.38,78,NA,0.78,NA,7.74,10.6,2.47,NA,1.58,NA,NA,48.4,7.87,3.35,18.08,2.73
+"47","Kyle Kuzma","Washington Wizards","PF",14.916,52.9,18.77,0.06,32.59,NA,6.43,0.7,"77.5%",8.69,6.63,2.19,NA,2.74,2.66,2.16,46.3,5.74,4.23,22.19,NA
+"48","Chet Holmgren","Oklahoma City Thunder","C",14.901,62.3,11.63,NA,29.55,86,NA,2.34,"78.9%",6.13,7.94,2.4,NA,1.63,2.65,NA,52.7,6.38,NA,16.49,1.56
+"49","Franz Wagner","Orlando Magic","SF",14.899,56.1,15.19,0.05,32.87,79,4.66,NA,"85.4%",7.22,5.43,2.38,1.03,1.85,3.92,NA,47.5,4.39,3.8,19.66,1.04
+"50","Devin Vassell","San Antonio Spurs","SG",14.728,54.5,15.53,NA,33.06,NA,6.57,NA,"80.1%",7.32,NA,NA,1.07,1.59,2.37,2.44,47.2,NA,4.07,19.46,NA
+"51","CJ McCollum","New Orleans Pelicans","SG",14.69,49.4,16,NA,32.94,NA,8.29,0.64,NA,7.25,NA,NA,0.97,1.83,NA,3.44,45.3,3.72,4.63,19.57,NA
+"52","Collin Sexton","Utah Jazz","PG",14.346,53,13.31,NA,NA,78,NA,NA,"85.9%",6.49,NA,NA,NA,2.12,4.08,1.64,48.7,NA,4.91,18.69,NA
+"53","Derrick White","Boston Celtics","PG",14.112,NA,11.67,NA,32.7,78,6.91,1.18,"90.1%",5.49,NA,NA,0.97,1.51,1.87,2.78,47,NA,5.04,15.63,NA
+"54","Coby White","Chicago Bulls","SG",14.082,51.4,15.38,0.06,36.55,81,7.05,NA,"83.8%",6.93,4.56,2.37,NA,2.1,2.81,2.64,NA,4,5.12,19.31,NA
+"55","RJ Barrett","Toronto Raptors","SF",14.048,54.9,15.17,0.09,31.69,NA,NA,NA,NA,7.52,5.43,2.22,NA,2.17,3.59,NA,49.5,4.52,3.33,20.17,NA
+"56","Cam Thomas","Brooklyn Nets","SG",14.046,NA,18.03,0.08,31.44,NA,6,NA,"85.6%",7.97,NA,2.09,NA,1.88,4.33,2.18,NA,NA,2.91,22.45,NA
+"57","D'Angelo Russell","Los Angeles Lakers","PG",14.013,49.7,14.24,0.08,32.98,83,7.27,NA,"82.3%",6.42,NA,NA,0.9,2.02,1.96,2.95,NA,NA,6.22,17.76,NA
+"58","Mikal Bridges","Brooklyn Nets","SG",13.926,49,15.78,0.06,34.81,82,7.22,NA,"81.4%",6.88,4.54,NA,0.99,2,3.15,2.68,NA,3.71,3.65,19.59,NA
+"59","Myles Turner","Indiana Pacers","C",13.726,60.6,12.01,NA,NA,85,4.42,1.79,"76.6%",6.21,6.88,3.01,NA,NA,3.15,1.61,51.7,5.45,NA,17.19,1.44
+"60","Tobias Harris","Philadelphia 76ers","SF",13.635,53.5,13.14,NA,34.01,77,NA,0.64,"87.7%",6.35,6.57,NA,0.92,NA,2.49,NA,48.3,5.35,2.99,16.45,1.22
+"61","Austin Reaves","Los Angeles Lakers","PG",13.596,58.8,11.56,NA,32.22,89,5.1,NA,"85.7%",5.63,NA,NA,NA,2.02,2.96,1.83,48.7,NA,5.36,16.04,NA
+"62","Jalen Duren","Detroit Pistons","C",13.493,62.3,NA,0.08,29.14,NA,NA,0.77,"79.0%",5.72,11.62,3.15,NA,2.11,2.34,NA,61.9,8.48,NA,13.79,3.15
+"63","Immanuel Quickley","Toronto Raptors","SG",13.171,NA,13.15,0.04,29.19,NA,6.37,NA,"85.3%",5.71,NA,NA,NA,1.49,3.07,2.51,NA,NA,4.87,17,NA
+"64","Aaron Gordon","Denver Nuggets","PF",13.135,62,NA,0.1,32.04,80,NA,0.58,NA,5.48,6.59,NA,NA,1.45,2.39,NA,55.5,4.13,3.63,13.89,2.46
+"65","Jalen Green","Houston Rockets","SG",13.059,49.8,16.24,0.05,31.73,82,7.38,NA,"80.4%",6.87,5.16,NA,NA,2.33,3.45,2.45,NA,4.66,3.55,19.63,NA
+"66","Darius Garland","Cleveland Cavaliers","PG",13.025,49.9,14.53,0.09,33.44,NA,6.11,NA,"82.5%",6.48,NA,NA,1.27,3.05,2.44,2.28,NA,NA,6.42,17.69,NA
+"67","Nic Claxton","Brooklyn Nets","C",12.985,63.3,NA,0.14,29.8,NA,NA,2.06,NA,5.15,9.94,2.46,NA,NA,NA,NA,62.9,7.23,NA,NA,2.72
+"68","Michael Porter Jr.","Denver Nuggets","PF",12.966,57.6,13.41,NA,32.28,88,6.92,0.65,NA,6.52,7.02,NA,NA,NA,NA,2.78,48.6,5.76,NA,17.03,1.26
+"69","Tyus Jones","Washington Wizards","PG",12.888,NA,NA,NA,29.28,NA,NA,NA,NA,4.94,NA,NA,1.08,NA,NA,NA,48.9,NA,7.35,NA,NA
+"70","Khris Middleton","Milwaukee Bucks","SF",12.818,55.7,12.41,NA,NA,NA,4.56,NA,"84.7%",6.1,5.11,2.72,0.89,2.31,2.08,1.72,49.1,4.26,5.25,16,NA
+"71","Clint Capela","Atlanta Hawks","C",12.797,57.6,NA,NA,NA,NA,NA,1.43,NA,4.92,10.72,2.22,NA,NA,NA,NA,57.5,6.14,NA,NA,4.58
+"72","John Collins","Utah Jazz","PF",12.44,60.5,10.97,NA,NA,NA,NA,0.9,"79.5%",5.84,8.46,2.81,NA,1.44,2.16,NA,53.2,6.15,NA,15.1,2.31
+"73","Deni Avdija","Washington Wizards","SF",12.279,56,10.71,0.05,30.09,NA,NA,NA,"74.0%",5.41,7.2,2.47,NA,2.13,2.69,NA,50.6,6.08,3.81,14.69,1.12
+"74","Bogdan Bogdanovic","Atlanta Hawks","SG",12.128,NA,13.98,NA,30.47,80,8.14,NA,"92.2%",5.99,NA,2.3,1.23,NA,1.91,3.04,NA,NA,3.14,16.93,NA
+"75","Trey Murphy III","New Orleans Pelicans","SF",12.027,NA,10.97,NA,30.67,NA,7.75,0.56,"81.7%",NA,5.05,NA,0.92,NA,1.98,2.9,NA,4.33,NA,14.54,NA
+"76","Daniel Gafford","Dallas Mavericks","PF",12.014,71.1,NA,NA,NA,80,NA,1.98,NA,NA,7.29,2.95,NA,NA,NA,NA,71.1,4.73,NA,NA,2.56
+"77","Ivica Zubac","Los Angeles Clippers","C",12.005,64.3,NA,NA,NA,NA,NA,1.16,NA,5.12,9.22,2.72,NA,NA,1.8,NA,64.3,6.32,NA,NA,2.89
+"78","Jonathan Kuminga","Golden State Warriors","PF",11.94,57.6,11.69,0.09,NA,NA,NA,NA,"74.4%",6.16,4.83,2.29,NA,1.63,3.03,NA,52.7,3.57,NA,16.05,1.25
+"79","Keldon Johnson","San Antonio Spurs","SF",11.762,53.3,12.49,NA,29.54,NA,5.32,NA,"79.2%",5.67,5.46,2.16,NA,1.45,2.54,1.84,45.4,4.09,2.83,15.71,1.38
+"80","Keegan Murray","Sacramento Kings","SF",11.723,55.5,12.75,NA,33.73,79,6.72,0.76,NA,5.78,5.52,2.62,1.04,NA,NA,2.44,45.4,4.08,NA,15.38,1.44
+"81","Jusuf Nurkic","Phoenix Suns","C",11.611,55.4,NA,0.08,NA,80,NA,1.08,NA,NA,10.88,3.36,1.09,2.26,2.15,NA,51,7.91,3.9,NA,2.96
+"82","Jrue Holiday","Boston Celtics","PG",11.566,NA,NA,NA,32.98,NA,4.61,0.78,NA,NA,5.36,NA,0.92,1.77,NA,1.96,47.3,4.14,4.8,NA,1.23
+"83","Donte DiVincenzo","New York Knicks","SG",11.5,NA,12.35,NA,29.5,88,8.56,NA,NA,5.44,NA,NA,1.28,NA,NA,3.43,NA,NA,NA,15.41,NA
+"84","Jonas Valanciunas","New Orleans Pelicans","C",11.433,59.9,NA,0.07,NA,88,NA,0.8,"79.3%",4.92,8.94,2.65,NA,NA,2.05,NA,55.2,6.52,NA,NA,2.42
+"85","Malik Monk","Sacramento Kings","SG",11.431,NA,12.4,0.06,NA,NA,5.88,0.54,"82.9%",5.5,NA,2.17,NA,2.08,2.36,2.06,NA,NA,5.14,15.42,NA
+"86","Grayson Allen","Phoenix Suns","SG",11.423,NA,NA,NA,33.19,77,5.84,0.58,"88.1%",NA,NA,2.09,0.91,NA,NA,2.68,49.6,NA,2.97,13.26,NA
+"87","Klay Thompson","Golden State Warriors","SG",11.373,NA,14.65,0.05,29.69,78,8.95,NA,"92.7%",6.28,NA,NA,NA,1.51,NA,3.44,NA,NA,NA,17.63,NA
+"88","Mike Conley","Minnesota Timberwolves","PG",11.357,NA,NA,NA,29.06,82,5.28,NA,NA,NA,NA,NA,1.16,NA,NA,2.32,45.2,NA,5.98,NA,NA
+"89","Dennis Schroder","Brooklyn Nets","PG",11.33,NA,11.59,0.09,31.07,80,4.6,NA,"83.6%",5.04,NA,NA,NA,1.91,2.23,1.73,NA,NA,6.1,14.03,NA
+"90","Brook Lopez","Milwaukee Bucks","C",11.255,62.5,NA,0.07,30.72,85,5.02,2.31,NA,NA,5.12,2.36,NA,NA,NA,1.86,49.4,3.61,NA,NA,1.51
+"91","Brandon Miller","Charlotte Hornets","SF",11.218,49.5,14.64,0.05,32.2,NA,6.66,0.57,"82.7%",6.43,NA,2.49,0.89,1.78,1.93,2.49,NA,NA,NA,17.28,NA
+"92","Jabari Smith Jr.","Houston Rockets","PF",11.17,NA,10.96,0.12,31.89,NA,5,0.8,"81.1%",4.97,8.11,2.63,NA,NA,1.97,1.82,45.4,6.28,NA,13.74,1.83
+"93","Saddiq Bey","Atlanta Hawks","SF",11.141,NA,11.06,NA,32.72,NA,5.68,NA,"83.7%",NA,6.52,NA,NA,NA,2.7,1.79,NA,3.87,NA,13.7,2.65
+"94","Bobby Portis","Milwaukee Bucks","PF",11.042,54.2,11.47,0.19,NA,88,NA,NA,NA,5.8,7.67,2.3,NA,NA,NA,NA,50.5,5.88,NA,13.97,1.8
+"95","Josh Giddey","Oklahoma City Thunder","SG",10.971,52.7,10.54,NA,NA,84,NA,0.55,NA,5,6.36,NA,NA,2.1,NA,NA,47.5,5.01,4.75,NA,1.35
+"96","Tre Jones","San Antonio Spurs","PG",10.927,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.01,1.51,NA,NA,50.5,NA,6.21,NA,NA
+"97","Jordan Poole","Washington Wizards","SG",10.839,49.2,15.21,0.17,30.07,78,7.23,NA,"87.7%",6.28,NA,3.13,1.1,2.41,2.46,2.36,NA,NA,4.4,17.38,NA
+"98","Caris LeVert","Cleveland Cavaliers","SG",10.8,NA,11.59,NA,NA,NA,4.65,NA,"75.8%",NA,NA,NA,1.11,1.68,2.21,NA,NA,NA,4.81,13.39,NA
+"99","Kelly Oubre Jr.","Philadelphia 76ers","SF",10.564,51.7,12.68,0.08,30.88,NA,4.65,0.73,"75.4%",5.61,4.97,2.97,1.19,NA,2.49,NA,NA,3.56,NA,15.19,1.41
+"100","Isaiah Hartenstein","New York Knicks","C",10.482,64,NA,NA,NA,82,NA,1.13,NA,NA,8.18,2.91,1.09,NA,NA,NA,NA,4.93,NA,NA,3.26
+"101","Obi Toppin","Indiana Pacers","PF",NA,70.6,NA,0.06,NA,90,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,56.6,NA,NA,NA,1.01
+"102","Nick Richards","Charlotte Hornets","C",NA,69.3,NA,0.06,NA,NA,NA,1.1,"73.7%",NA,8.04,2.63,NA,NA,1.97,NA,NA,5.48,NA,NA,2.57
+"103","Moritz Wagner","Orlando Magic","PF",NA,66.5,NA,NA,NA,87,NA,NA,"79.6%",NA,NA,NA,NA,NA,2.02,NA,59.3,NA,NA,NA,1.47
+"104","Evan Mobley","Cleveland Cavaliers","C",NA,59.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,56.8,NA,NA,NA,NA
+"105","Rui Hachimura","Los Angeles Lakers","PF",NA,58.8,NA,NA,NA,NA,NA,NA,NA,5.11,NA,NA,NA,NA,NA,NA,53.1,NA,NA,13,NA
+"106","Deandre Ayton","Portland Trail Blazers","C",NA,57.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,57,NA,NA,NA,NA
+"107","Jalen Johnson","Atlanta Hawks","SF",NA,57.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,51.1,NA,NA,NA,NA
+"108","Lauri Markkanen","Utah Jazz","PF",NA,55.9,NA,NA,NA,NA,NA,NA,"89.9%",NA,NA,NA,NA,NA,NA,NA,48,NA,NA,NA,NA
+"109","T.J. McConnell","Indiana Pacers","PG",NA,55.8,NA,NA,NA,79,NA,NA,NA,NA,NA,NA,1.04,1.46,NA,NA,54.2,NA,5.43,NA,NA
+"110","Andre Drummond","Chicago Bulls","C",NA,55.7,NA,0.07,NA,81,NA,0.63,NA,NA,8.84,NA,0.93,NA,NA,NA,NA,5.56,NA,NA,3.28
+"111","Jaime Jaquez Jr.","Miami Heat","SG",NA,55.1,NA,NA,NA,81,NA,NA,"81.4%",NA,NA,2.21,1,1.49,1.89,NA,48.5,NA,NA,NA,1.07
+"112","Bradley Beal","Phoenix Suns","SG",NA,54.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50.8,NA,NA,NA,NA
+"113","Joel Embiid","Philadelphia 76ers","C",NA,54.5,NA,NA,NA,NA,NA,NA,"88.0%",NA,NA,NA,NA,NA,NA,NA,51.4,NA,NA,NA,NA
+"114","Julius Randle","New York Knicks","PF",NA,53.9,NA,NA,NA,NA,NA,NA,"78.1%",NA,NA,NA,NA,NA,NA,NA,47.2,NA,NA,NA,NA
+"115","Naz Reid","Minnesota Timberwolves","C",NA,53.3,10.4,0.05,NA,87,5.01,0.9,NA,4.94,5.06,2.09,NA,NA,NA,2.07,47.5,4.2,NA,13.31,NA
+"116","Andrew Wiggins","Golden State Warriors","SF",NA,49.7,10.99,NA,NA,NA,NA,0.58,"74.7%",4.96,NA,NA,NA,NA,2.01,NA,45.1,NA,NA,13.21,1.51
+"117","Russell Westbrook","Los Angeles Clippers","PG",NA,49.4,NA,0.14,NA,NA,NA,NA,NA,NA,4.97,NA,1.09,2.08,NA,NA,NA,3.64,4.27,NA,1.34
+"118","Jeremy Sochan","San Antonio Spurs","PF",NA,49.2,10.49,0.07,29.64,NA,NA,0.54,NA,NA,6.43,2.27,NA,1.89,NA,NA,NA,4.58,3.36,NA,1.85
+"119","Jaden Ivey","Detroit Pistons","PG",NA,48.5,12.64,NA,28.8,77,4.79,NA,"74.9%",5.42,NA,2.65,NA,2.47,2.95,NA,NA,NA,3.84,15.39,1.12
+"120","Scoot Henderson","Portland Trail Blazers","PG",NA,NA,12.85,NA,28.47,NA,NA,NA,"81.9%",4.95,NA,3.15,NA,3.42,2.69,NA,NA,NA,5.42,14,NA
+"121","Tim Hardaway Jr.","Dallas Mavericks","SG",NA,NA,12.12,0.09,NA,81,7.41,NA,"84.8%",4.86,NA,NA,NA,NA,NA,2.62,NA,NA,NA,14.14,NA
+"122","Gary Trent Jr.","Toronto Raptors","SG",NA,NA,11.93,0.04,NA,NA,6.38,NA,NA,5.08,NA,NA,1.08,NA,NA,2.51,NA,NA,NA,13.72,NA
+"123","De'Andre Hunter","Atlanta Hawks","PF",NA,NA,11.71,0.09,29.71,NA,5.36,NA,"84.4%",5.29,NA,2.53,NA,1.45,2.9,2.02,45.2,NA,NA,15.5,NA
+"124","Bojan Bogdanovic","New York Knicks","SF",NA,NA,11.56,0.05,NA,NA,5.72,NA,NA,5.18,NA,NA,NA,1.67,1.98,2.28,NA,NA,NA,14.62,NA
+"125","Bennedict Mathurin","Indiana Pacers","SG",NA,NA,11.23,0.05,NA,NA,NA,NA,"82.8%",5.02,NA,NA,NA,1.62,3.22,NA,NA,NA,NA,14.6,1
+"126","P.J. Washington","Dallas Mavericks","PF",NA,NA,10.96,0.06,30.79,79,5.63,0.84,NA,NA,5.61,2.33,1.03,NA,NA,1.8,NA,4.43,NA,NA,1.18
+"127","Keyonte George","Utah Jazz","SG",NA,NA,10.87,NA,NA,NA,5.87,NA,"84.8%",NA,NA,NA,NA,2.51,2.52,1.96,NA,NA,4.43,NA,NA
+"128","Cameron Johnson","Brooklyn Nets","PF",NA,NA,10.67,NA,NA,NA,6.09,NA,NA,NA,NA,NA,NA,NA,NA,2.38,NA,NA,NA,13.38,NA
+"129","Dillon Brooks","Houston Rockets","SG",NA,NA,10.67,0.24,30.93,NA,5.14,NA,NA,NA,NA,3.35,0.89,NA,NA,1.85,NA,NA,NA,NA,NA
+"130","Max Strus","Cleveland Cavaliers","PG",NA,NA,10.17,0.17,32.12,77,6.71,NA,NA,NA,4.87,2.48,0.92,1.6,NA,2.34,NA,3.95,3.88,NA,NA
+"131","Norman Powell","Los Angeles Clippers","SG",NA,NA,10.11,NA,NA,82,5.04,NA,"82.9%",4.87,NA,NA,NA,NA,1.89,2.2,48.1,NA,NA,13.82,NA
+"132","Grant Williams","Charlotte Hornets","PF",NA,NA,NA,0.18,NA,NA,NA,NA,NA,NA,NA,2.97,NA,1.43,NA,1.66,NA,NA,NA,NA,1.13
+"133","Patrick Beverley","Milwaukee Bucks","PG",NA,NA,NA,0.15,NA,79,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.1,NA,NA
+"134","Georges Niang","Cleveland Cavaliers","SF",NA,NA,NA,0.15,NA,88,4.67,NA,NA,NA,NA,2.35,NA,NA,NA,1.72,NA,NA,NA,NA,NA
+"135","Herbert Jones","New Orleans Pelicans","PF",NA,NA,NA,0.11,30.77,82,NA,0.78,"86.6%",NA,NA,2.99,1.38,NA,1.82,NA,49.3,NA,NA,NA,NA
+"136","Chris Paul","Golden State Warriors","PG",NA,NA,NA,0.1,NA,NA,NA,NA,NA,NA,NA,NA,1.19,NA,NA,NA,NA,NA,6.69,NA,NA
+"137","Jaden McDaniels","Minnesota Timberwolves","SF",NA,NA,NA,0.09,29.67,78,NA,0.6,NA,NA,NA,3.08,0.87,NA,NA,NA,48.2,NA,NA,NA,NA
+"138","Kentavious Caldwell-Pope","Denver Nuggets","SG",NA,NA,NA,0.08,31.9,83,NA,NA,NA,NA,NA,NA,1.34,NA,NA,1.63,NA,NA,NA,NA,NA
+"139","Joe Ingles","Orlando Magic","SF",NA,NA,NA,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.87,NA,NA
+"140","Josh Hart","New York Knicks","SG",NA,NA,NA,0.08,34.47,88,NA,NA,NA,NA,8.66,2.19,0.93,1.55,NA,NA,NA,6.91,4.16,NA,1.75
+"141","Drew Eubanks","Phoenix Suns","PF",NA,NA,NA,0.08,NA,78,NA,0.79,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.32
+"142","Aaron Nesmith","Indiana Pacers","SG",NA,NA,NA,0.08,NA,80,4.75,0.71,"80.6%",NA,NA,3.41,0.88,NA,NA,1.91,48.3,NA,NA,NA,NA
+"143","Jalen Suggs","Orlando Magic","SG",NA,NA,NA,0.07,NA,82,5.28,0.61,"75.8%",NA,NA,2.72,1.4,1.85,NA,2.04,46.4,NA,NA,NA,NA
+"144","Spencer Dinwiddie","Los Angeles Lakers","PG",NA,NA,NA,0.07,NA,82,4.61,NA,"79.6%",NA,NA,NA,NA,NA,2.1,NA,NA,NA,4.45,NA,NA
+"145","Taurean Prince","Los Angeles Lakers","SF",NA,NA,NA,0.07,NA,85,4.48,NA,NA,NA,NA,NA,NA,NA,NA,1.75,NA,NA,NA,NA,NA
+"146","Jose Alvarado","New Orleans Pelicans","PG",NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,1.06,NA,NA,NA,NA,NA,NA,NA,NA
+"147","Wendell Carter Jr.","Orlando Magic","C",NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,6.85,2.27,NA,NA,NA,NA,NA,4.9,NA,NA,1.95
+"148","Goga Bitadze","Orlando Magic","C",NA,NA,NA,0.06,NA,NA,NA,1.13,NA,NA,4.52,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.72
+"149","Isaiah Jackson","Indiana Pacers","PF",NA,NA,NA,0.06,NA,NA,NA,1.05,NA,NA,NA,2.25,NA,NA,NA,NA,NA,NA,NA,NA,1.54
+"150","Kris Dunn","Utah Jazz","PG",NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,1.03,NA,NA,NA,NA,NA,3.85,NA,NA
+"151","Garrison Mathews","Atlanta Hawks","SG",NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"152","Zach Collins","San Antonio Spurs","PF",NA,NA,NA,0.06,NA,NA,NA,0.75,NA,NA,5.36,2.99,NA,1.91,NA,NA,NA,3.65,2.81,NA,1.71
+"153","Naji Marshall","New Orleans Pelicans","PF",NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"154","Chris Duarte","Sacramento Kings","SG",NA,NA,NA,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"155","Terance Mann","Los Angeles Clippers","SG",NA,NA,NA,0.05,NA,81,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.28
+"156","Santi Aldama","Memphis Grizzlies","PF",NA,NA,NA,0.05,NA,NA,4.98,0.89,NA,NA,5.77,NA,NA,NA,NA,1.74,NA,4.59,NA,NA,1.18
+"157","Andre Jackson Jr.","Milwaukee Bucks","SG",NA,NA,NA,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"158","Royce O'Neale","Phoenix Suns","SF",NA,NA,NA,0.05,NA,83,5.3,NA,NA,NA,4.77,2.23,NA,NA,NA,1.95,NA,3.99,NA,NA,NA
+"159","Luguentz Dort","Oklahoma City Thunder","SG",NA,NA,NA,0.05,28.76,83,5.05,0.57,"82.0%",NA,NA,2.89,0.89,NA,NA,2.02,NA,NA,NA,NA,0.99
+"160","Simone Fontecchio","Detroit Pistons","SF",NA,NA,NA,0.05,NA,NA,5.06,NA,NA,NA,NA,NA,NA,NA,NA,2.03,NA,NA,NA,NA,NA
+"161","Jordan Hawkins","New Orleans Pelicans","SG",NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"162","Caleb Martin","Miami Heat","SF",NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.15
+"163","Jevon Carter","Chicago Bulls","PG",NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"164","Ayo Dosunmu","Chicago Bulls","PG",NA,NA,NA,NA,29.42,78,NA,NA,NA,NA,NA,2.22,0.91,NA,NA,NA,49.7,NA,3.19,NA,NA
+"165","Harrison Barnes","Sacramento Kings","SF",NA,NA,NA,NA,29.2,84,4.69,NA,"79.9%",NA,NA,NA,NA,NA,1.94,1.85,47.3,NA,NA,NA,NA
+"166","Malik Beasley","Milwaukee Bucks","SG",NA,NA,NA,NA,29.04,85,6.67,NA,NA,NA,NA,NA,NA,NA,NA,2.76,NA,NA,NA,NA,NA
+"167","Alex Caruso","Chicago Bulls","SG",NA,NA,NA,NA,28.64,NA,4.68,0.97,NA,NA,NA,2.53,1.66,1.41,NA,1.92,NA,NA,3.47,NA,NA
+"168","Buddy Hield","Philadelphia 76ers","SG",NA,NA,NA,NA,NA,90,6.61,NA,NA,NA,NA,NA,NA,NA,NA,2.53,NA,NA,NA,NA,NA
+"169","Paul Reed","Philadelphia 76ers","PF",NA,NA,NA,NA,NA,89,NA,0.99,NA,NA,5.69,2.31,NA,NA,NA,NA,NA,NA,NA,NA,2.27
+"170","Reggie Jackson","Denver Nuggets","PG",NA,NA,NA,NA,NA,89,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.56,NA,NA
+"171","Christian Braun","Denver Nuggets","SG",NA,NA,NA,NA,NA,89,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"172","Cole Anthony","Orlando Magic","PG",NA,NA,NA,NA,NA,88,NA,NA,"82.8%",NA,NA,2.17,NA,1.49,2.14,NA,NA,NA,NA,NA,NA
+"173","Nickeil Alexander-Walker","Minnesota Timberwolves","SG",NA,NA,NA,NA,NA,88,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.65,NA,NA,NA,NA,NA
+"174","Peyton Watson","Denver Nuggets","SG",NA,NA,NA,NA,NA,87,NA,1.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"175","Payton Pritchard","Boston Celtics","PG",NA,NA,NA,NA,NA,87,4.52,NA,NA,NA,NA,NA,NA,NA,NA,1.72,46.3,NA,3.4,NA,NA
+"176","Cason Wallace","Oklahoma City Thunder","PG",NA,NA,NA,NA,NA,86,NA,NA,NA,NA,NA,NA,0.94,NA,NA,NA,NA,NA,NA,NA,NA
+"177","Cameron Payne","Philadelphia 76ers","PG",NA,NA,NA,NA,NA,84,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"178","Kyle Anderson","Minnesota Timberwolves","SF",NA,NA,NA,NA,NA,84,NA,0.57,NA,NA,NA,NA,0.87,NA,NA,NA,NA,NA,4.1,NA,NA
+"179","Sam Hauser","Boston Celtics","SF",NA,NA,NA,NA,NA,84,5.83,NA,NA,NA,NA,NA,NA,NA,NA,2.49,NA,NA,NA,NA,NA
+"180","Pat Connaughton","Milwaukee Bucks","SG",NA,NA,NA,NA,NA,82,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"181","Isaiah Joe","Oklahoma City Thunder","PG",NA,NA,NA,NA,NA,82,4.48,NA,NA,NA,NA,NA,NA,NA,NA,1.85,NA,NA,NA,NA,NA
+"182","Aaron Wiggins","Oklahoma City Thunder","SG",NA,NA,NA,NA,NA,82,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"183","Derrick Jones Jr.","Dallas Mavericks","SF",NA,NA,NA,NA,NA,82,NA,0.73,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.13
+"184","Corey Kispert","Washington Wizards","SF",NA,NA,NA,NA,NA,80,6,NA,NA,NA,NA,NA,NA,NA,NA,2.3,48.7,NA,NA,13.38,NA
+"185","Ochai Agbaji","Toronto Raptors","SG",NA,NA,NA,NA,NA,78,NA,0.56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"186","Jaden Hardy","Dallas Mavericks","SG",NA,NA,NA,NA,NA,78,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"187","Aaron Holiday","Houston Rockets","PG",NA,NA,NA,NA,NA,78,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"188","Jeff Green","Houston Rockets","PF",NA,NA,NA,NA,NA,78,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"189","Kelly Olynyk","Toronto Raptors","PF",NA,NA,NA,NA,NA,78,NA,NA,"83.3%",NA,5.27,2.95,0.95,1.95,1.92,NA,NA,3.88,4.45,NA,1.38
+"190","Precious Achiuwa","New York Knicks","PF",NA,NA,NA,NA,NA,77,NA,0.95,NA,NA,6.43,NA,NA,NA,NA,NA,NA,3.9,NA,NA,2.53
+"191","Duncan Robinson","Miami Heat","SF",NA,NA,NA,NA,NA,NA,6.62,NA,NA,NA,NA,2.31,NA,NA,NA,2.59,NA,NA,NA,NA,NA
+"192","Eric Gordon","Phoenix Suns","SG",NA,NA,NA,NA,NA,NA,5.75,NA,NA,NA,NA,NA,0.99,NA,NA,2.18,NA,NA,NA,NA,NA
+"193","Sam Merrill","Cleveland Cavaliers","PG",NA,NA,NA,NA,NA,NA,5.52,NA,NA,NA,NA,NA,NA,NA,NA,2.24,NA,NA,NA,NA,NA
+"194","Kevin Huerter","Sacramento Kings","SG",NA,NA,NA,NA,NA,NA,5.33,NA,NA,NA,NA,2.11,NA,NA,NA,1.92,NA,NA,NA,NA,NA
+"195","Alec Burks","New York Knicks","SG",NA,NA,NA,NA,NA,NA,5,NA,"86.8%",NA,NA,NA,NA,NA,2.2,1.88,NA,NA,NA,NA,NA
+"196","Dorian Finney-Smith","Brooklyn Nets","SF",NA,NA,NA,NA,NA,NA,4.94,0.56,NA,NA,4.66,2.21,NA,NA,NA,1.72,NA,NA,NA,NA,1.6
+"197","Lonnie Walker IV","Brooklyn Nets","SG",NA,NA,NA,NA,NA,NA,4.67,NA,NA,NA,NA,NA,NA,NA,NA,1.79,NA,NA,NA,NA,NA
+"198","Walker Kessler","Utah Jazz","C",NA,NA,NA,NA,NA,NA,NA,2.41,NA,NA,7.52,NA,NA,NA,NA,NA,NA,4.94,NA,NA,2.58
+"199","Dereck Lively II","Dallas Mavericks","C",NA,NA,NA,NA,NA,NA,NA,1.36,NA,NA,6.8,2.57,NA,NA,NA,NA,NA,4.39,NA,NA,2.41
+"200","Jonathan Isaac","Orlando Magic","PF",NA,NA,NA,NA,NA,NA,NA,1.22,NA,NA,4.52,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.28
+"201","Trayce Jackson-Davis","Golden State Warriors","PF",NA,NA,NA,NA,NA,NA,NA,1.1,NA,NA,4.96,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.96
+"202","Luke Kornet","Boston Celtics","C",NA,NA,NA,NA,NA,NA,NA,0.94,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.85
+"203","Ausar Thompson","Detroit Pistons","SG",NA,NA,NA,NA,NA,NA,NA,0.94,NA,NA,6.38,2.78,1.08,NA,NA,NA,NA,4.33,NA,NA,2.05
+"204","Al Horford","Boston Celtics","C",NA,NA,NA,NA,NA,NA,NA,0.9,NA,NA,6.4,NA,NA,NA,NA,1.63,NA,5.13,NA,NA,1.27
+"205","Daniel Theis","Los Angeles Clippers","PF",NA,NA,NA,NA,NA,NA,NA,0.84,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.39
+"206","Bilal Coulibaly","Washington Wizards","SG",NA,NA,NA,NA,NA,NA,NA,0.76,NA,NA,NA,2.17,0.9,NA,NA,NA,NA,NA,NA,NA,NA
+"207","Matisse Thybulle","Portland Trail Blazers","SG",NA,NA,NA,NA,NA,NA,NA,0.75,NA,NA,NA,NA,1.74,NA,NA,NA,NA,NA,NA,NA,NA
+"208","Day'Ron Sharpe","Brooklyn Nets","C",NA,NA,NA,NA,NA,NA,NA,0.72,NA,NA,6.38,2.15,NA,NA,NA,NA,NA,3.74,NA,NA,2.64
+"209","Zeke Nnaji","Denver Nuggets","PF",NA,NA,NA,NA,NA,NA,NA,0.66,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.05
+"210","Nicolas Batum","Philadelphia 76ers","SG",NA,NA,NA,NA,NA,NA,NA,0.66,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.21
+"211","James Wiseman","Detroit Pistons","C",NA,NA,NA,NA,NA,NA,NA,0.62,NA,NA,5.33,2.24,NA,NA,NA,NA,NA,3.59,NA,NA,1.75
+"212","Amen Thompson","Houston Rockets","SG",NA,NA,NA,NA,NA,NA,NA,0.61,NA,NA,6.6,2.27,1.26,1.45,NA,NA,NA,4.21,NA,NA,2.39
+"213","Jalen Smith","Indiana Pacers","PF",NA,NA,NA,NA,NA,NA,NA,0.6,NA,NA,5.48,NA,NA,NA,NA,NA,NA,3.6,NA,NA,1.87
+"214","Keon Ellis","Sacramento Kings","SG",NA,NA,NA,NA,NA,NA,NA,0.58,NA,NA,NA,NA,0.92,NA,NA,NA,NA,NA,NA,NA,NA
+"215","Julian Champagnie","San Antonio Spurs","PF",NA,NA,NA,NA,NA,NA,NA,0.57,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"216","Duop Reath","Portland Trail Blazers","C",NA,NA,NA,NA,NA,NA,NA,0.56,NA,NA,NA,2.37,NA,NA,NA,NA,NA,NA,NA,NA,1.37
+"217","Anfernee Simons","Portland Trail Blazers","SG",NA,NA,NA,NA,NA,NA,NA,NA,"91.6%",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"218","Jordan Clarkson","Utah Jazz","PG",NA,NA,NA,NA,NA,NA,NA,NA,"88.1%",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"219","Desmond Bane","Memphis Grizzlies","SG",NA,NA,NA,NA,NA,NA,NA,NA,"87.0%",NA,NA,NA,NA,NA,NA,NA,46.4,NA,NA,NA,NA
+"220","Trae Young","Atlanta Hawks","PG",NA,NA,NA,NA,NA,NA,NA,NA,"85.5%",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"221","Jerami Grant","Portland Trail Blazers","SF",NA,NA,NA,NA,NA,NA,NA,NA,"81.7%",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"222","Jabari Walker","Portland Trail Blazers","PF",NA,NA,NA,NA,NA,NA,NA,NA,"75.4%",NA,7.06,2.4,NA,NA,1.79,NA,NA,4.96,NA,NA,2.1
+"223","Kevin Love","Miami Heat","PF",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.82,NA,NA,NA,NA,NA,NA,4.82,NA,NA,1
+"224","Brandin Podziemski","Golden State Warriors","SG",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.8,NA,NA,NA,NA,NA,NA,4.2,3.65,NA,1.6
+"225","Kevon Looney","Golden State Warriors","PF",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.65,2.12,NA,NA,NA,NA,NA,3.73,NA,NA,1.92
+"226","Larry Nance Jr.","New Orleans Pelicans","SF",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.31,NA,0.97,NA,NA,NA,NA,3.63,NA,NA,1.69
+"227","Toumani Camara","Portland Trail Blazers","PF",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.9,2.49,0.94,NA,NA,NA,NA,NA,NA,NA,1.99
+"228","Kyle Lowry","Philadelphia 76ers","PG",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.57,1,NA,NA,NA,NA,NA,4.15,NA,NA
+"229","Andrew Nembhard","Indiana Pacers","PG",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.23,0.88,1.41,NA,NA,NA,NA,4.16,NA,NA
+"230","Bruce Brown","Toronto Raptors","PG",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.21,0.9,NA,NA,NA,NA,NA,2.84,NA,NA
+"231","Jae'Sean Tate","Houston Rockets","SF",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.11,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"232","Dyson Daniels","New Orleans Pelicans","SG",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.32,NA,NA,NA,NA,NA,NA,NA,NA
+"233","Gary Harris","Orlando Magic","SG",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.93,NA,NA,NA,NA,NA,NA,NA,NA
+"234","Isaac Okoro","Cleveland Cavaliers","SF",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.87,NA,NA,NA,NA,NA,NA,NA,NA
+"235","Kris Murray","Portland Trail Blazers","PF",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.85,NA,NA,NA,NA,NA,NA,NA,1.37
+"236","Vasilije Micic","Charlotte Hornets","PG",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.65,NA,NA,NA,NA,4.37,NA,NA
+"237","Miles McBride","New York Knicks","PG",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.63,NA,NA,NA,NA,NA
+"238","O.G. Anunoby","New York Knicks","SF",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,48.9,NA,NA,NA,NA
+"239","Marcus Sasser","Detroit Pistons","SG",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.32,NA,NA
+"240","Dwight Powell","Dallas Mavericks","PF",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.48
+"241","Josh Okogie","Phoenix Suns","SG",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.16
+"242","Dario Saric","Golden State Warriors","SF",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.14
+"243","Trey Lyles","Sacramento Kings","PF",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.07

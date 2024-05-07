@@ -3,7 +3,7 @@ library(rvest)
 
 
 
-data <- get_data(url)p
+# data <- get_data(url)
 
 get_data_from_one_page <- function(url = "https://www.teamrankings.com/nba/player-stat/rebounds-offensive"){
  page <- read_html(url)
@@ -17,7 +17,7 @@ get_data_from_one_page <- function(url = "https://www.teamrankings.com/nba/playe
     gsub(pattern = " " ,replacement = "_")
  rename_with(table, ~paste0(title), "Value")
  } 
-df <- get_data_from_one_page()
+# df <- get_data_from_one_page()
 
              
 urls <- c(
@@ -51,12 +51,10 @@ for(url in urls[2:length(urls)]){
   df <- full_join(df2,df)
 }
 
-model <- lm(Game_Score ~ Field_Goals_Attempted + Offensive_Rebounds, df)
+df <- df %>% 
+  mutate(Field_Goal_Percentage = as.numeric(sub("%", "", Field_Goal_Percentage)),
+         Two_Point_Field_Goal_Percentage = as.numeric(sub("%", "", Two_Point_Field_Goal_Percentage))
+         )
 
-
-pred_score <- function(field_goals,off_rebounds){
-  predict(model, data.frame(Field_Goals_Attempted = Field_Goals, Offensive_Rebounds = off_rebounds))
-}
-
-summary(model)
+write.csv(df, 'Eco 365 final project/data.csv')
 

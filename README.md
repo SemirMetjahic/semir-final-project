@@ -1,1 +1,1 @@
-Hello im semir metjahic and this is my project on player stats. I have combined alot of differnt types of data such as points per game, rebounds, field goal percenatges etc. I made a way as to where all of the datat gets combined into one and you can see it on a mini sclae/graph.
+Hello im semir metjahic and this is my project on player stats. I have combined alot of differnt types of data such as points per game, rebounds, field goal percenatges etc. I made a way as to where all of the data gets combined into one and you can see it on a mini sclae/graph. 
